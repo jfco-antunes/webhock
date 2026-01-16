@@ -1,0 +1,14 @@
+{
+  "name": "webhook-api-demo",
+  "version": "1.0.0",
+  "description": "API Assincrona Demo",
+  "main": "api-video.js",
+  "scripts": {
+    "start": "node api-video.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0"
+  }
+}
+
